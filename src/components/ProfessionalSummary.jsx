@@ -16,7 +16,7 @@ function ProfessionalSummary() {
       </h2>
 
       <p className="text-slate-400 max-w-2xl mx-auto mt-4">
-        Cloud & DevOps Engineer with nearly 3 years of experience in Azure and AWS,
+        Cloud & DevOps Engineer with 3+ years of experience in Azure and AWS,
         specializing in CI/CD, Terraform, Docker, Kubernetes, and Linux.
       </p>
 
